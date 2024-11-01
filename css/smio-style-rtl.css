@@ -1,0 +1,14 @@
+#col-left{
+float: right;
+}
+#col-right{
+float: left;
+clear: none;
+}
+#smioslogin_model_select{
+margin-right: 10px;
+}
+a.add-new-h2{
+display: inline-block;
+}
+.smiosloginCloseTB{float:left;}

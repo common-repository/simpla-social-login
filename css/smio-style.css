@@ -1,0 +1,71 @@
+#col-container{
+clear: left;
+}
+.smioslogin_process{
+display: none;
+}
+#smioslogin-message{
+width:450px;
+height:160px;
+}
+#smio-submit{
+margin-bottom:10px;
+}
+.tablenav .tablenav-pages a,.tablenav .tablenav-pages span.current{
+padding: 3px 10px;
+font-size: 12px;
+font-weight: bold;
+}
+.smioslogin-center{
+text-align:center!important;
+}
+.smioslogin_pre{
+border: 1px solid #c7c7c7;
+font-family: courier;
+line-height: 19px;
+margin: 5px;
+background-color: #FFFFFF;
+color: #222;
+overflow: auto;
+padding: 7px;
+}
+.wp-list-table td, .wp-list-table th{
+vertical-align: middle!important;
+}
+#smioslogin-dashboard td{
+
+}
+#smioslogin-dashboard td label{
+font-size: 13px;
+}
+#smioslogin-dashboard td .description{
+line-height: 15px;
+margin-top: 6px;
+font-size: 13px;
+}
+.widefat td p{
+margin: 2px 0;
+}
+#col-left{
+float: left;
+}
+.smioslogin_tdhold pre {
+  border: 1px solid #C7C7C7;
+  height: 500px;
+  font-family: courier;
+  line-height: 19px;
+  margin: 5px;
+  width: 740px;
+  background-color: #F4F4F4;
+  color: #222;
+  overflow: auto;
+  padding: 7px;
+}
+#namediv input{width:inherit;}
+#namediv input[type=checkbox], #namediv input[type=submit], #namediv input[type=button]{width: inherit;}
+.smioslogin-settings-page h3 label {display:flex}
+.smioslogin-settings-page h3 label img{width:24px;height:24px}
+.smioslogin-settings-page h3 label span{margin-top:4px;margin-left:5px;}
+.smioslogin-settings-page #col-left {width:95%}
+.smioslogin-clear {height:30px;clear:both;margin-top:4px}
+.smiosloginCloseTB{display:block!important;float:right;cursor:pointer;margin:8px;width:12px}
